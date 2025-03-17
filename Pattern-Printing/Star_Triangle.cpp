@@ -1,3 +1,4 @@
+// Star Triangle
 #include<iostream>
 using namespace std;
 int main()
