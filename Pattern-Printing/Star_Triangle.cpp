@@ -1,4 +1,4 @@
-// Star Triangle
+// To print right triangle using "*"
 #include<iostream>
 using namespace std;
 int main()
